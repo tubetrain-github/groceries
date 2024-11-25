@@ -1,1 +1,4 @@
-
+- chicken filet x 4
+- lemon
+- honey
+- peanut butter
