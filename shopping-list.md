@@ -1,1 +1,6 @@
-
+- chicken filet x 4
+- lemon
+- honey
+- olive oil
+- yogurt
+- garlic
