@@ -1,6 +1,7 @@
-- chicken filet x 4
+- chicken filet x 8
 - lemon
 - honey
 - olive oil
 - yogurt
 - garlic
+- peanut butter
